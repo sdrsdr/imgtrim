@@ -1,0 +1,4 @@
+[Project]
+Name=imgtrim
+Manager=KDevCMakeManager
+VersionControl=kdevgit
